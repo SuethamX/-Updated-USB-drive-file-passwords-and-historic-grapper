@@ -11,9 +11,6 @@ Outdated REPO: https://github.com/HolmesXL-zz/USB-Drive-File-Passwords-and-Histo
 ```
 <br />
 
-*In recent days I was looking for a way to steal data from a computer using just a USB Drive, many of these tutorials were flawed or indiscreet, so I tried to adapt so that automatically when you open the .bat file it downloads the folders to it.
-I put 3 .exe files in case you can be less discreet when Hijacking.*
-
 **BrowsingHistoryView** - Download the browsing history from months ago (normal version (this version was also tested on a 64-bit computer and worked normally, but if it doesn't work on the victim's computer, try using the 64-bit version).<br />
 **BrowsingHistoryView64x** – Download the browsing history from months ago (64-bit version).<br />
 **WebBrowserPassViewer** - Downloads logins and passwords (which the person has entered to “always remember”).
